@@ -13,7 +13,7 @@ Este é um simples aplicativo de relógio digital construído usando HTML, CSS e
 1. Clone este repositório para a sua máquina local:
 
    ```bash
-   git clone https://github.com/seunome/relogio-digital-js.git
+   git clone https://github.com/Eduardoss45/relogio-digital-js.git
    ```
 
 2. Navegue até o diretório do projeto:
